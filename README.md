@@ -8,6 +8,10 @@ This repository contains a reusable KYC attestation smart contract for Soroban (
 **Contract Alias:** `kyc_attestation`  
 **Explorer:** [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CC3CHJHF3DJYJ7YWWDRCBFXFHV6HGGLD2AUVFVYX4CNQ46KYC2S6EUED)
 
+### 📸 Live Contract Verification on Stellar Expert
+
+![Contract Verification on Stellar Expert](image.png)
+
 📄 See [DEPLOYMENT.md](DEPLOYMENT.md) for complete deployment details and verification info.
 
 ## Key properties
