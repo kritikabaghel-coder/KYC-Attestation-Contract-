@@ -1,0 +1,10 @@
+C:\Users\BISWAJIT DAS\Desktop\Bootcamp_project2\backend\target\debug\deps\icu_normalizer-e17cea9d799b667d.d: C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\lib.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\properties.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\provider.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\uts46.rs
+
+C:\Users\BISWAJIT DAS\Desktop\Bootcamp_project2\backend\target\debug\deps\libicu_normalizer-e17cea9d799b667d.rlib: C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\lib.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\properties.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\provider.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\uts46.rs
+
+C:\Users\BISWAJIT DAS\Desktop\Bootcamp_project2\backend\target\debug\deps\libicu_normalizer-e17cea9d799b667d.rmeta: C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\lib.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\properties.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\provider.rs C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\uts46.rs
+
+C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\lib.rs:
+C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\properties.rs:
+C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\provider.rs:
+C:\Users\BISWAJIT\ DAS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-2.1.1\src\uts46.rs:
