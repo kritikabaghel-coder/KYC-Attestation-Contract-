@@ -14,6 +14,26 @@ This repository contains a reusable KYC attestation smart contract for Soroban (
 
 📄 See [DEPLOYMENT.md](DEPLOYMENT.md) for complete deployment details and verification info.
 
+## 🎨 Frontend UI Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](Screenshot%202025-11-05%20031858.png)
+
+### Home Page - Hero Section
+![Home Page](Screenshot%202025-11-05%20031911.png)
+
+### Home Page - Features
+![Home Page Scrolled](Screenshot%202025-11-05%20031930.png)
+
+### Verify KYC Panel
+![Verify KYC](Screenshot%202025-11-05%20031944.png)
+
+### User Controls
+![User Controls](Screenshot%202025-11-05%20031954.png)
+
+### Issuer Dashboard
+![Issuer Dashboard](Screenshot%202025-11-05%20032009.png)
+
 ## Key properties
 - Admin initializes the contract and manages a whitelist of KYC issuers.
 - Issuers can issue and revoke attestations for subjects (users).
